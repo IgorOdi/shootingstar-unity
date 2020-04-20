@@ -3,6 +3,7 @@ using PeixeAbissal.Controller;
 using PeixeAbissal.Service;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 namespace PeixeAbissal.UI.Conteiner {
 
@@ -15,20 +16,24 @@ namespace PeixeAbissal.UI.Conteiner {
         [SerializeField]
         private UIElement sentWishFeedback;
 
+        [SerializeField]
+        private TextController textController;
+
         public void ShowMakeWishField () {
 
-            wishInputField.SetState (ActiveState.ENABLE, GetOpenTween (wishInputField.transform), () => {
-                makeWishButton.SetState (ActiveState.ENABLE, GetOpenTween (makeWishButton.transform), null);
+            wishInputField.GetComponent<TMP_InputField> ().text = "";
+            wishInputField.SetState (ActiveState.ENABLE, 0.75f, 1f, Ease.InOutSine, () => {
+                makeWishButton.SetState (ActiveState.ENABLE, 1f, 1f, Ease.InOutSine, null);
             });
             makeWishButton.OnClick (MakeAWish);
         }
 
         public void HideMakeWishField (string starMessage) {
 
-            wishInputField.SetState (ActiveState.ENABLE, GetCloseTween (wishInputField.transform), () => {
-                makeWishButton.SetState (ActiveState.ENABLE, GetCloseTween (makeWishButton.transform), () => {
+            wishInputField.SetState (ActiveState.DISABLE, null, () => {
+                makeWishButton.SetState (ActiveState.DISABLE, null, () => {
 
-                    FindObjectOfType<TextController> ().ShowText (starMessage, true);
+                    textController.ShowText (starMessage, () => textController.HideText ());
                 });
             });
         }
@@ -52,12 +57,11 @@ namespace PeixeAbissal.UI.Conteiner {
                     PlayerController.SetPlayerLastStar (currentStar.starIndex);
                     HideMakeWishField (currentStar.starMessage);
                 });
-                wishField.text = "";
                 makeWishButton.RemoveAllListeners ();
             }
         }
 
-        private Tween GetOpenTween (Transform target) {
+        private Tween GetOpenTween (UIElement target) {
 
             float xDuration = 0.5f;
             float yDuration = 0.5f;

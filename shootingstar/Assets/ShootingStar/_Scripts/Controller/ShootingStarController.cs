@@ -12,7 +12,7 @@ namespace PeixeAbissal.Controller {
 
         [SerializeField] private RectTransform starRectTransform;
 
-        private const float MAX_ROTATION_ANGLE = 15;
+        private const float MAX_ROTATION_ANGLE = 45;
 
         private Coroutine predictMovementCoroutine;
 

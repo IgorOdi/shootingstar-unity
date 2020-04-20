@@ -15,6 +15,7 @@ namespace PeixeAbissal.Controller {
         private StarService starService = new StarService ();
         private DateTime unixStartTime = new DateTime (1970, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc);
 
+        [SerializeField]
         private ShootingStarController shootingStarController;
 
         private int lastMinutes;
@@ -22,7 +23,6 @@ namespace PeixeAbissal.Controller {
 
         public void StartUpdatingTime (Action onCompleteTimeCycle) {
 
-            shootingStarController = FindObjectOfType<ShootingStarController> ();
             StartCoroutine (UpdateTimeCoroutine (onCompleteTimeCycle));
         }
 

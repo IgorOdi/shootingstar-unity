@@ -7,9 +7,10 @@ namespace PeixeAbissal.UI {
 
     public class UIElement : MonoBehaviour {
 
-        public virtual void SetState (ActiveState state, float tweenDuration = 1, Ease ease = Ease.InOutSine, Action callback = null) {
+        public virtual void SetState (ActiveState state, float finalValue, float tweenDuration = 1, Ease ease = Ease.InOutSine, Action callback = null) {
 
-            var tween = state.Equals (ActiveState.ENABLE) ? EnableAnimation (tweenDuration) : DisableAnimation (tweenDuration);
+            var tween = state.Equals (ActiveState.ENABLE) ? EnableAnimation (GetComponent<Image> (), finalValue, tweenDuration) :
+                DisableAnimation (GetComponent<Image> (), tweenDuration);
             tween.SetEase (ease);
             tween.OnComplete (() => callback?.Invoke ());
             tween.Play ();
@@ -18,7 +19,8 @@ namespace PeixeAbissal.UI {
         public virtual void SetState (ActiveState state, Tween customTween, Action callback = null) {
 
             if (state.Equals (ActiveState.ENABLE)) gameObject.SetActive (true);
-            var tween = customTween;
+
+            var tween = customTween != null ? customTween : DisableAnimation (GetComponent<Image> (), 1f);
             tween.OnComplete (() => {
                 callback?.Invoke ();
                 if (state.Equals (ActiveState.DISABLE)) gameObject.SetActive (false);
@@ -26,16 +28,16 @@ namespace PeixeAbissal.UI {
             tween.Play ();
         }
 
-        protected Tween EnableAnimation (float tweenDuration) {
+        protected virtual Tween EnableAnimation (Graphic target, float finalValue, float tweenDuration) {
 
             gameObject.SetActive (true);
-            return transform.DOScale (Vector3.one, tweenDuration)
-                .From (Vector3.zero);
+            return target.DOFade (finalValue, tweenDuration)
+                .From (0);
         }
 
-        protected Tween DisableAnimation (float tweenDuration) {
+        protected virtual Tween DisableAnimation (Graphic target, float tweenDuration) {
 
-            return transform.DOScale (Vector3.zero, tweenDuration)
+            return target.DOFade (0, tweenDuration)
                 .OnComplete (() => gameObject.SetActive (false));
         }
     }

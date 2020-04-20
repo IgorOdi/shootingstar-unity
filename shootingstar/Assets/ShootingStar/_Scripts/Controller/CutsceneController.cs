@@ -1,4 +1,5 @@
-﻿using PeixeAbissal.Model;
+﻿using PeixeAbissal.Input;
+using PeixeAbissal.Model;
 using PeixeAbissal.Service;
 using PeixeAbissal.UI.Conteiner;
 using UnityEngine;
@@ -11,6 +12,8 @@ namespace PeixeAbissal.Controller {
         private TextController textController;
         [SerializeField]
         private WishController wishController;
+        [SerializeField]
+        private StarStatusController starStatusController;
 
         [TextArea (3, 10)]
         public string starPresentationCutsceneText;
@@ -23,31 +26,29 @@ namespace PeixeAbissal.Controller {
 
         private const string ALREADY_WISHED = "Você já desejou para essa estrela, volte mais tarde saber o seu destino";
 
-        void Start () {
+        public void InitializeGame (CurrentStar startingStar) {
 
             var playerStatus = PlayerController.GetPlayerStatus ();
 
-            starService.GetCurrentStar (this, (currentStar) => {
-                if (playerStatus.Equals (PlayerStatus.NEVER_PLAYED)) {
+            if (playerStatus.Equals (PlayerStatus.NEVER_PLAYED)) {
 
-                    StarPresentationCutscene (currentStar);
+                StarPresentationCutscene (startingStar);
+            } else {
+
+                Debug.Log ($"The current star is {startingStar.starName}");
+
+                int lastPlayerStar = PlayerController.GetPlayerLastStar ();
+                int actualStar = startingStar.starIndex;
+
+                if (actualStar > lastPlayerStar) {
+
+                    ShowLastStarResults ();
                 } else {
 
-                    Debug.Log ($"The current star is {currentStar.starName}");
-
-                    int lastPlayerStar = PlayerController.GetPlayerLastStar ();
-                    int actualStar = currentStar.starIndex;
-
-                    if (actualStar > lastPlayerStar) {
-
-                        ShowLastStarResults ();
-                    } else {
-                        //Ainda está na mesma estrela
-                        FindObjectOfType<TextController> ().ShowText (ALREADY_WISHED, true);
-                    }
+                    textController.ShowText (ALREADY_WISHED, () => textController.HideText ());
                 }
-            });
-            FindObjectOfType<StarStatusController> ().StartUpdatingTime (onCompleteTimeCycle: ShowLastStarResults);
+            }
+            starStatusController.StartUpdatingTime (onCompleteTimeCycle: ShowLastStarResults);
         }
 
         public void StarPresentationCutscene (CurrentStar star) {
@@ -56,7 +57,8 @@ namespace PeixeAbissal.Controller {
             configService.GetConfig (this, (config) => {
 
                 string textToShow = string.Format (starPresentationCutsceneText, star.starName, star.starProperty, config.wishesNeeded - star.wishesReceived);
-                textController.ShowText (textToShow, true, () => {
+                textController.ShowText (textToShow, () => {
+                    textController.HideText ();
                     wishController.ShowMakeWishField ();
                 });
             });
@@ -69,11 +71,16 @@ namespace PeixeAbissal.Controller {
                 int lastSeenStar = PlayerController.GetPlayerLastStar ();
                 starService.GetStarResult (lastSeenStar, this, (result) => {
 
-                    FindObjectOfType<TextController> ().ShowText (result.starSurvived ? SURVIVED_TEXT : PERISHED_TEXT, true, () => {
+                    textController.ShowText (result.starSurvived ? SURVIVED_TEXT : PERISHED_TEXT, () => {
 
                         StarService starService = new StarService ();
                         starService.GetCurrentStar (this, (currentStar) => {
-                            StarPresentationCutscene (currentStar);
+
+                            InputManager.SetMouseClick (true, () => {
+
+                                textController.HideText ();
+                                StarPresentationCutscene (currentStar);
+                            });
                         });
 
                     });

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using DG.Tweening;
+using PeixeAbissal.Input;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -17,21 +18,11 @@ namespace PeixeAbissal.UI.Conteiner {
         private const float FILL_TIME = 0.05f;
         private const float FADE_DELAY = 2f;
 
-        public void ShowText (string text, bool fadeAfterFinish, Action onComplete = null) {
+        public void ShowText (string text, Action onComplete = null) {
 
             textBox.gameObject.SetActive (true);
             background.gameObject.SetActive (true);
-            Action onFinishFill = delegate {
-
-                if (fadeAfterFinish) {
-                    background.DOFade (0, 2f)
-                        .SetDelay (FADE_DELAY);
-                    textBox.DOFade (0, 2f)
-                        .SetDelay (FADE_DELAY)
-                        .OnComplete (() => onComplete?.Invoke ());
-                }
-            };
-            StartCoroutine (FillText (text, fadeAfterFinish ? onFinishFill : onComplete));
+            StartCoroutine (FillText (text, onComplete));
         }
 
         private IEnumerator FillText (string text, Action onComplete) {
@@ -54,7 +45,13 @@ namespace PeixeAbissal.UI.Conteiner {
                 yield return new WaitForSeconds (FILL_TIME);
             }
 
-            onComplete?.Invoke ();
+            InputManager.SetMouseClick (true, () => onComplete?.Invoke ());
+        }
+
+        public void HideText () {
+
+            textBox.DOFade(0, 1f);
+            background.DOFade(0, 1f);
         }
     }
 }
