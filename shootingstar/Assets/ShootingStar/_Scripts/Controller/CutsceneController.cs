@@ -1,4 +1,5 @@
-﻿using PeixeAbissal.Input;
+﻿using PeixeAbissal.Audio;
+using PeixeAbissal.Input;
 using PeixeAbissal.Model;
 using PeixeAbissal.Service;
 using PeixeAbissal.UI.Conteiner;
@@ -29,7 +30,6 @@ namespace PeixeAbissal.Controller {
         public void InitializeGame (CurrentStar startingStar) {
 
             var playerStatus = PlayerController.GetPlayerStatus ();
-
             if (playerStatus.Equals (PlayerStatus.NEVER_PLAYED)) {
 
                 StarPresentationCutscene (startingStar);
@@ -48,6 +48,8 @@ namespace PeixeAbissal.Controller {
                     textController.ShowText (ALREADY_WISHED, () => textController.HideText ());
                 }
             }
+
+            AudioManager.Instance.PlayMusic (Music.WISH);
             starStatusController.StartUpdatingTime (onCompleteTimeCycle: ShowLastStarResults);
         }
 
@@ -58,6 +60,7 @@ namespace PeixeAbissal.Controller {
 
                 string textToShow = string.Format (starPresentationCutsceneText, star.starName, star.starProperty, config.wishesNeeded - star.wishesReceived);
                 textController.ShowText (textToShow, () => {
+
                     textController.HideText ();
                     wishController.ShowMakeWishField ();
                 });
@@ -66,27 +69,24 @@ namespace PeixeAbissal.Controller {
 
         public void ShowLastStarResults () {
 
-            configService.GetConfig (this, (config) => {
+            wishController.HideMakeWishField ();
+            textController.HideText (() => {
 
                 int lastSeenStar = PlayerController.GetPlayerLastStar ();
                 starService.GetStarResult (lastSeenStar, this, (result) => {
 
+                    AudioManager.Instance.PlaySFX (result.starSurvived ? SFX.VICTORY : SFX.DEFEAT);
                     textController.ShowText (result.starSurvived ? SURVIVED_TEXT : PERISHED_TEXT, () => {
 
-                        StarService starService = new StarService ();
                         starService.GetCurrentStar (this, (currentStar) => {
 
-                            InputManager.SetMouseClick (true, () => {
-
-                                textController.HideText ();
-                                StarPresentationCutscene (currentStar);
-                            });
+                            textController.HideText (() => StarPresentationCutscene (currentStar));
                         });
 
                     });
                 });
-
             });
+
         }
     }
 }

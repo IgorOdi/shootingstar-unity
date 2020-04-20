@@ -12,12 +12,12 @@ namespace PeixeAbissal.UI.Conteiner {
 
         public void SetTime (int minutes) {
 
-            timeLeft.text = $"{minutes} to finish";
+            timeLeft.text = $"{minutes} minutes left";
         }
 
         public void SetWishesMissing (int wishes) {
 
-            wishesMissing.text = $"{wishes} missing";
+            wishesMissing.text = $"{wishes} wishes missing";
         }
     }
 }

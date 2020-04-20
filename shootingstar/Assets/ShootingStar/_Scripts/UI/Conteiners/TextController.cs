@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using DG.Tweening;
+using PeixeAbissal.Audio;
 using PeixeAbissal.Input;
 using TMPro;
 using UnityEngine;
@@ -15,6 +16,8 @@ namespace PeixeAbissal.UI.Conteiner {
         [SerializeField]
         private Image background;
 
+        private bool textOnScreen;
+
         private const float FILL_TIME = 0.05f;
         private const float FADE_DELAY = 2f;
 
@@ -22,12 +25,14 @@ namespace PeixeAbissal.UI.Conteiner {
 
             textBox.gameObject.SetActive (true);
             background.gameObject.SetActive (true);
+            AudioManager.Instance.PlaySFX (SFX.POPUP);
             StartCoroutine (FillText (text, onComplete));
         }
 
         private IEnumerator FillText (string text, Action onComplete) {
 
             textBox.text = "";
+            textOnScreen = true;
             background.DOFade (0.5f, 0.5f)
                 .From (0)
                 .OnComplete (() => {
@@ -48,10 +53,16 @@ namespace PeixeAbissal.UI.Conteiner {
             InputManager.SetMouseClick (true, () => onComplete?.Invoke ());
         }
 
-        public void HideText () {
+        public void HideText (Action onComplete = null) {
 
-            textBox.DOFade(0, 1f);
-            background.DOFade(0, 1f);
+            float duration = textOnScreen ? 1f : 0f;
+            textOnScreen = false;
+            textBox.DOFade (0, duration);
+            background.DOFade (0, duration)
+                .OnComplete (() => {
+
+                    onComplete?.Invoke ();
+                });
         }
     }
 }

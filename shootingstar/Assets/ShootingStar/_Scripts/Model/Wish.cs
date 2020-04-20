@@ -6,5 +6,6 @@ namespace PeixeAbissal.Model {
     public class Wish {
 
         public string text { get; set; }
+        public int starIndex { get; set; }
     }
 }

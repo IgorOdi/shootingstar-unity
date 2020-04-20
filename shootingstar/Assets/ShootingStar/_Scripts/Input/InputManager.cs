@@ -5,8 +5,14 @@ namespace PeixeAbissal.Input {
 
     public class InputManager : MonoBehaviour {
 
-        public static Action OnMouseClick;
+        private static Action OnMouseClick;
         private static bool clearAfterClick;
+
+        public static void AddMouseClick (bool clear, Action onClick) {
+
+            clearAfterClick = clear;
+            OnMouseClick += onClick;
+        }
 
         public static void SetMouseClick (bool clear, Action onClick) {
 

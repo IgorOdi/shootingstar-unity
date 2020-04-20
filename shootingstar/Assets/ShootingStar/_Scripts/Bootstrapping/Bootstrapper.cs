@@ -1,4 +1,5 @@
-﻿using PeixeAbissal.Controller;
+﻿using DG.Tweening;
+using PeixeAbissal.Controller;
 using PeixeAbissal.Model;
 using PeixeAbissal.Service;
 using UnityEngine;
@@ -17,6 +18,7 @@ namespace PeixeAbissal.Bootstrapping {
         [RuntimeInitializeOnLoadMethod (RuntimeInitializeLoadType.AfterSceneLoad)]
         private static void OnRunApplication () {
 
+            DOTween.defaultAutoPlay = AutoPlay.None;
             var activeScene = SceneManager.GetActiveScene ();
             if (activeScene.name == BOOTSTRAPPER_SCENE) {
 
@@ -45,6 +47,8 @@ namespace PeixeAbissal.Bootstrapping {
 
                 currentStar = loadedStar;
             });
+
+            Audio.AudioManager.Instance.PlayMusic (Audio.Music.INTRO);
         }
 
         public void OnInitializeGame () {
