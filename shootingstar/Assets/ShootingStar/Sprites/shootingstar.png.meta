@@ -1,0 +1,5385 @@
+fileFormatVersion: 2
+guid: 1d243047c21b16b409580691cfaed65d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -743038671243188983
+    second: shootingstar_0
+  - first:
+      213: -7553709970450833876
+    second: shootingstar_1
+  - first:
+      213: 4990180446913706212
+    second: shootingstar_2
+  - first:
+      213: 7203146349399001055
+    second: shootingstar_3
+  - first:
+      213: 4487730639216163430
+    second: shootingstar_4
+  - first:
+      213: -9114704456645087405
+    second: shootingstar_5
+  - first:
+      213: -885215745918030606
+    second: shootingstar_6
+  - first:
+      213: 5896008612555520666
+    second: shootingstar_7
+  - first:
+      213: -5145172656653583376
+    second: shootingstar_8
+  - first:
+      213: 2073327844130171740
+    second: shootingstar_9
+  - first:
+      213: -7607109899089963614
+    second: shootingstar_10
+  - first:
+      213: -608928308261838725
+    second: shootingstar_11
+  - first:
+      213: -1141574216286014206
+    second: shootingstar_12
+  - first:
+      213: 7289327922810821937
+    second: shootingstar_13
+  - first:
+      213: -3278279196270690389
+    second: shootingstar_14
+  - first:
+      213: -281941821832381389
+    second: shootingstar_15
+  - first:
+      213: 4006098405613774474
+    second: shootingstar_16
+  - first:
+      213: 1701949205220562206
+    second: shootingstar_17
+  - first:
+      213: 1475683542978553794
+    second: shootingstar_18
+  - first:
+      213: -219396379190003242
+    second: shootingstar_19
+  - first:
+      213: 1109094918257241180
+    second: shootingstar_20
+  - first:
+      213: 8625821528011251858
+    second: shootingstar_21
+  - first:
+      213: -18183537443919270
+    second: shootingstar_22
+  - first:
+      213: 4858993151585701264
+    second: shootingstar_23
+  - first:
+      213: -1412367525773131651
+    second: shootingstar_24
+  - first:
+      213: 4513368797230371312
+    second: shootingstar_25
+  - first:
+      213: 4307553263021556049
+    second: shootingstar_26
+  - first:
+      213: 9206261165135692204
+    second: shootingstar_27
+  - first:
+      213: -472660908248722661
+    second: shootingstar_28
+  - first:
+      213: -6698725114912116112
+    second: shootingstar_29
+  - first:
+      213: 7975403266781820124
+    second: shootingstar_30
+  - first:
+      213: 8904046752070257180
+    second: shootingstar_31
+  - first:
+      213: -71960964021405512
+    second: shootingstar_32
+  - first:
+      213: 3571950296696190400
+    second: shootingstar_33
+  - first:
+      213: 3056091244462327472
+    second: shootingstar_34
+  - first:
+      213: 4136335269890163622
+    second: shootingstar_35
+  - first:
+      213: -7706200804792927441
+    second: shootingstar_36
+  - first:
+      213: 6533844507364409075
+    second: shootingstar_37
+  - first:
+      213: -7776591367927571664
+    second: shootingstar_38
+  - first:
+      213: -1558038963707271404
+    second: shootingstar_39
+  - first:
+      213: -2542645422260771570
+    second: shootingstar_40
+  - first:
+      213: 7799531508739986040
+    second: shootingstar_41
+  - first:
+      213: 7964764949624227469
+    second: shootingstar_42
+  - first:
+      213: -3600584411513474312
+    second: shootingstar_43
+  - first:
+      213: 1215488178728599550
+    second: shootingstar_44
+  - first:
+      213: -3907838763472425560
+    second: shootingstar_45
+  - first:
+      213: -8136006995614614627
+    second: shootingstar_46
+  - first:
+      213: -8365652902032329714
+    second: shootingstar_47
+  - first:
+      213: -3478277365108409558
+    second: shootingstar_48
+  - first:
+      213: 450373158332043426
+    second: shootingstar_49
+  - first:
+      213: 914079228144200550
+    second: shootingstar_50
+  - first:
+      213: -6409726984569025623
+    second: shootingstar_51
+  - first:
+      213: -1181853691582841547
+    second: shootingstar_52
+  - first:
+      213: 4107713197520112145
+    second: shootingstar_53
+  - first:
+      213: 7779759001112016136
+    second: shootingstar_54
+  - first:
+      213: -687303245048897315
+    second: shootingstar_55
+  - first:
+      213: -3964137324018095968
+    second: shootingstar_56
+  - first:
+      213: -770288565809928291
+    second: shootingstar_57
+  - first:
+      213: 4904846232262346099
+    second: shootingstar_58
+  - first:
+      213: -8955264922198559936
+    second: shootingstar_59
+  - first:
+      213: 157201227502474253
+    second: shootingstar_60
+  - first:
+      213: 5129765561271747775
+    second: shootingstar_61
+  - first:
+      213: -3280781871118268637
+    second: shootingstar_62
+  - first:
+      213: 6211455788694597975
+    second: shootingstar_63
+  - first:
+      213: -8667461560506658043
+    second: shootingstar_64
+  - first:
+      213: -4773729236508869154
+    second: shootingstar_65
+  - first:
+      213: 373831420653314716
+    second: shootingstar_66
+  - first:
+      213: -2350650463083854517
+    second: shootingstar_67
+  - first:
+      213: 7630649478879178277
+    second: shootingstar_68
+  - first:
+      213: -3235217535372204858
+    second: shootingstar_69
+  - first:
+      213: 790196500927504733
+    second: shootingstar_70
+  - first:
+      213: -3979905434544488432
+    second: shootingstar_71
+  - first:
+      213: 4135305727056430514
+    second: shootingstar_72
+  - first:
+      213: -5865804159593033837
+    second: shootingstar_73
+  - first:
+      213: 2243062889490423890
+    second: shootingstar_74
+  - first:
+      213: -1498824261285194670
+    second: shootingstar_75
+  - first:
+      213: -6022028098676336811
+    second: shootingstar_76
+  - first:
+      213: -7958938021720469196
+    second: shootingstar_77
+  - first:
+      213: -5542569914134026286
+    second: shootingstar_78
+  - first:
+      213: 428260132777883532
+    second: shootingstar_79
+  - first:
+      213: -4369100415814472087
+    second: shootingstar_80
+  - first:
+      213: -4249029819495638379
+    second: shootingstar_81
+  - first:
+      213: 7841404011858107256
+    second: shootingstar_82
+  - first:
+      213: -8840142292626513774
+    second: shootingstar_83
+  - first:
+      213: -679124957375146583
+    second: shootingstar_84
+  - first:
+      213: 1275983022565233818
+    second: shootingstar_85
+  - first:
+      213: -6143045219334701364
+    second: shootingstar_86
+  - first:
+      213: 3577944779132749248
+    second: shootingstar_87
+  - first:
+      213: 9039125439739583403
+    second: shootingstar_88
+  - first:
+      213: -6164546163322154774
+    second: shootingstar_89
+  - first:
+      213: 1623276340266130651
+    second: shootingstar_90
+  - first:
+      213: 9042031283964771552
+    second: shootingstar_91
+  - first:
+      213: -7716291206738306779
+    second: shootingstar_92
+  - first:
+      213: 8126754759488073143
+    second: shootingstar_93
+  - first:
+      213: 8714089889977882596
+    second: shootingstar_94
+  - first:
+      213: -3994456654659618956
+    second: shootingstar_95
+  - first:
+      213: 1502989479048593813
+    second: shootingstar_96
+  - first:
+      213: 2479388200853821643
+    second: shootingstar_97
+  - first:
+      213: -6542891583684585314
+    second: shootingstar_98
+  - first:
+      213: 2156960338581080069
+    second: shootingstar_99
+  - first:
+      213: 7321916528058236559
+    second: shootingstar_100
+  - first:
+      213: -8009776690556911236
+    second: shootingstar_101
+  - first:
+      213: 1733417111244771209
+    second: shootingstar_102
+  - first:
+      213: 6202770026532283015
+    second: shootingstar_103
+  - first:
+      213: -7821677400355482178
+    second: shootingstar_104
+  - first:
+      213: -1052420219126136998
+    second: shootingstar_105
+  - first:
+      213: -7782028793702213591
+    second: shootingstar_106
+  - first:
+      213: -7875293150095460040
+    second: shootingstar_107
+  - first:
+      213: 6908708625878357035
+    second: shootingstar_108
+  - first:
+      213: -5895445064765415236
+    second: shootingstar_109
+  - first:
+      213: 2978480607482502186
+    second: shootingstar_110
+  - first:
+      213: 9213689704457452636
+    second: shootingstar_111
+  - first:
+      213: -8321585132312681506
+    second: shootingstar_112
+  - first:
+      213: 4531285436161569415
+    second: shootingstar_113
+  - first:
+      213: -4489698522967583075
+    second: shootingstar_114
+  - first:
+      213: 8018051228007613054
+    second: shootingstar_115
+  - first:
+      213: -6094215530433334695
+    second: shootingstar_116
+  - first:
+      213: -9188247409694312810
+    second: shootingstar_117
+  - first:
+      213: 5957762507772360453
+    second: shootingstar_118
+  - first:
+      213: -1877799424544867697
+    second: shootingstar_119
+  - first:
+      213: 573497781127510151
+    second: shootingstar_120
+  - first:
+      213: -1401624512909160942
+    second: shootingstar_121
+  - first:
+      213: -6255482377737338805
+    second: shootingstar_122
+  - first:
+      213: -458897766902641220
+    second: shootingstar_123
+  - first:
+      213: -5315061562364446991
+    second: shootingstar_124
+  - first:
+      213: -8121269990300587857
+    second: shootingstar_125
+  - first:
+      213: -207251275849858296
+    second: shootingstar_126
+  - first:
+      213: 1856066843550875135
+    second: shootingstar_127
+  - first:
+      213: -6443463852762321386
+    second: shootingstar_128
+  - first:
+      213: -653136333049124482
+    second: shootingstar_129
+  - first:
+      213: 8566391403889024274
+    second: shootingstar_130
+  - first:
+      213: -3966852064712586028
+    second: shootingstar_131
+  - first:
+      213: -2188696411877371017
+    second: shootingstar_132
+  - first:
+      213: -3468400356585777357
+    second: shootingstar_133
+  - first:
+      213: 7727904870754524810
+    second: shootingstar_134
+  - first:
+      213: -4694874174167251962
+    second: shootingstar_135
+  - first:
+      213: -8537927262514873372
+    second: shootingstar_136
+  - first:
+      213: -5577907031777701197
+    second: shootingstar_137
+  - first:
+      213: -4057114958050314271
+    second: shootingstar_138
+  - first:
+      213: -3934002446595917452
+    second: shootingstar_139
+  - first:
+      213: 3962187256724700046
+    second: shootingstar_140
+  - first:
+      213: 8747455637749819334
+    second: shootingstar_141
+  - first:
+      213: -22673751015054965
+    second: shootingstar_142
+  - first:
+      213: 8422989264548553855
+    second: shootingstar_143
+  - first:
+      213: 7737450138835376274
+    second: shootingstar_144
+  - first:
+      213: -7124104529255102877
+    second: shootingstar_145
+  - first:
+      213: -6228364742828464906
+    second: shootingstar_146
+  - first:
+      213: -82711153867434323
+    second: shootingstar_147
+  - first:
+      213: 7719085605939829880
+    second: shootingstar_148
+  - first:
+      213: 6393638736060421108
+    second: shootingstar_149
+  - first:
+      213: -1677777660014504557
+    second: shootingstar_150
+  - first:
+      213: -4575311370407147606
+    second: shootingstar_151
+  - first:
+      213: 4937146718904925993
+    second: shootingstar_152
+  - first:
+      213: -8188427941444262222
+    second: shootingstar_153
+  - first:
+      213: -3664050111775501220
+    second: shootingstar_154
+  - first:
+      213: 7371275410097865761
+    second: shootingstar_155
+  - first:
+      213: -2274641168551825433
+    second: shootingstar_156
+  - first:
+      213: -1313290343399508030
+    second: shootingstar_157
+  - first:
+      213: 395485157246497887
+    second: shootingstar_158
+  - first:
+      213: -1058496572262858782
+    second: shootingstar_159
+  - first:
+      213: -7445209184879030385
+    second: shootingstar_160
+  - first:
+      213: -5217227343347535389
+    second: shootingstar_161
+  - first:
+      213: 6235807937995146806
+    second: shootingstar_162
+  - first:
+      213: -3107959006343858415
+    second: shootingstar_163
+  - first:
+      213: 7200680226847580529
+    second: shootingstar_164
+  - first:
+      213: -705729000572500139
+    second: shootingstar_165
+  - first:
+      213: 7915633433508465894
+    second: shootingstar_166
+  - first:
+      213: 4017343394578678456
+    second: shootingstar_167
+  - first:
+      213: -5146446432045154972
+    second: shootingstar_168
+  - first:
+      213: -2875678200582788890
+    second: shootingstar_169
+  - first:
+      213: -7825539629177368547
+    second: shootingstar_170
+  - first:
+      213: 3488968445361849703
+    second: shootingstar_171
+  - first:
+      213: 6167707461517762565
+    second: shootingstar_172
+  - first:
+      213: -9184228752056890538
+    second: shootingstar_173
+  - first:
+      213: 2999247657900287136
+    second: shootingstar_174
+  - first:
+      213: -8449584697526721499
+    second: shootingstar_175
+  - first:
+      213: -4454103066906359546
+    second: shootingstar_176
+  - first:
+      213: 6753245615161204856
+    second: shootingstar_177
+  - first:
+      213: 1298620338609629098
+    second: shootingstar_178
+  - first:
+      213: 8769088121522211790
+    second: shootingstar_179
+  - first:
+      213: -255521187574681637
+    second: shootingstar_180
+  - first:
+      213: 1671121619110126354
+    second: shootingstar_181
+  - first:
+      213: -6171378986569419725
+    second: shootingstar_182
+  - first:
+      213: -2165136358420159918
+    second: shootingstar_183
+  - first:
+      213: 8558509117791908548
+    second: shootingstar_184
+  - first:
+      213: 7261651168389674790
+    second: shootingstar_185
+  - first:
+      213: 3124001849227252879
+    second: shootingstar_186
+  - first:
+      213: 1818705375976871533
+    second: shootingstar_187
+  - first:
+      213: 8108656906297026056
+    second: shootingstar_188
+  - first:
+      213: -2072776093939859523
+    second: shootingstar_189
+  - first:
+      213: -2893509773417912154
+    second: shootingstar_190
+  - first:
+      213: -6861357859412112302
+    second: shootingstar_191
+  - first:
+      213: 7078779356653610367
+    second: shootingstar_192
+  - first:
+      213: 8573306802890872423
+    second: shootingstar_193
+  - first:
+      213: 7710053820773764973
+    second: shootingstar_194
+  - first:
+      213: -8635669003580103959
+    second: shootingstar_195
+  - first:
+      213: 7637709706801599142
+    second: shootingstar_196
+  - first:
+      213: 3088569961317592483
+    second: shootingstar_197
+  - first:
+      213: -4452241188096200173
+    second: shootingstar_198
+  - first:
+      213: -4105470594723816289
+    second: shootingstar_199
+  - first:
+      213: 8838250570687660846
+    second: shootingstar_200
+  - first:
+      213: 4242494234669183758
+    second: shootingstar_201
+  - first:
+      213: 7455941802179347970
+    second: shootingstar_202
+  - first:
+      213: -715375848608213393
+    second: shootingstar_203
+  - first:
+      213: 98436107271864941
+    second: shootingstar_204
+  - first:
+      213: 8578651710805189772
+    second: shootingstar_205
+  - first:
+      213: 7195329032315914419
+    second: shootingstar_206
+  - first:
+      213: -5953412019605948290
+    second: shootingstar_207
+  - first:
+      213: 4974452790115920103
+    second: shootingstar_208
+  - first:
+      213: 1391132569758731097
+    second: shootingstar_209
+  - first:
+      213: 2515293747797382168
+    second: shootingstar_210
+  - first:
+      213: 248601759539082234
+    second: shootingstar_211
+  - first:
+      213: 556244789696009488
+    second: shootingstar_212
+  - first:
+      213: 3259957469757024462
+    second: shootingstar_213
+  - first:
+      213: 6795161800910364490
+    second: shootingstar_214
+  - first:
+      213: -9076293127688613182
+    second: shootingstar_215
+  - first:
+      213: -7981567597942167304
+    second: shootingstar_216
+  - first:
+      213: 6421978127706069613
+    second: shootingstar_217
+  - first:
+      213: -2044535764066852538
+    second: shootingstar_218
+  - first:
+      213: 380034508791122369
+    second: shootingstar_219
+  - first:
+      213: 6679816202321751531
+    second: shootingstar_220
+  - first:
+      213: 547049568517760036
+    second: shootingstar_221
+  - first:
+      213: 5368496163211338029
+    second: shootingstar_222
+  - first:
+      213: 8160562872004806843
+    second: shootingstar_223
+  - first:
+      213: -2541156888527143141
+    second: shootingstar_224
+  - first:
+      213: -4267605125864235525
+    second: shootingstar_225
+  - first:
+      213: 8028085508091668522
+    second: shootingstar_226
+  - first:
+      213: -2397523547639426637
+    second: shootingstar_227
+  - first:
+      213: -2214985875407159620
+    second: shootingstar_228
+  - first:
+      213: 6632838215112081667
+    second: shootingstar_229
+  - first:
+      213: 5988996189539181530
+    second: shootingstar_230
+  - first:
+      213: 2162669034941605527
+    second: shootingstar_231
+  - first:
+      213: -2456848154935018498
+    second: shootingstar_232
+  - first:
+      213: 2515375851895787216
+    second: shootingstar_233
+  - first:
+      213: -3521199095819254573
+    second: shootingstar_234
+  - first:
+      213: 406866116519750637
+    second: shootingstar_235
+  - first:
+      213: 733811681228225988
+    second: shootingstar_236
+  - first:
+      213: -3270831468550318424
+    second: shootingstar_237
+  - first:
+      213: 617192633442168031
+    second: shootingstar_238
+  - first:
+      213: 5098073507878756573
+    second: shootingstar_239
+  - first:
+      213: 5620863812400935725
+    second: shootingstar_240
+  - first:
+      213: 636479290850728142
+    second: shootingstar_241
+  - first:
+      213: -2270188861832679172
+    second: shootingstar_242
+  - first:
+      213: -5593754532962237034
+    second: shootingstar_243
+  - first:
+      213: 1587622415563571325
+    second: shootingstar_244
+  - first:
+      213: -247961599655389919
+    second: shootingstar_245
+  - first:
+      213: -2116219635892591189
+    second: shootingstar_246
+  - first:
+      213: 3931620386831414433
+    second: shootingstar_247
+  - first:
+      213: -4375556717649443039
+    second: shootingstar_248
+  - first:
+      213: 7707264254962193503
+    second: shootingstar_249
+  - first:
+      213: 345696537026465132
+    second: shootingstar_250
+  - first:
+      213: -2723420253432444012
+    second: shootingstar_251
+  - first:
+      213: -5119218828466992590
+    second: shootingstar_252
+  - first:
+      213: -7505037896831978041
+    second: shootingstar_253
+  - first:
+      213: 4415116700743547250
+    second: shootingstar_254
+  - first:
+      213: 2656459129636791970
+    second: shootingstar_255
+  - first:
+      213: 4841423315942100156
+    second: shootingstar_256
+  - first:
+      213: 2534067971881862088
+    second: shootingstar_257
+  - first:
+      213: -655819421506355533
+    second: shootingstar_258
+  - first:
+      213: -14337026957091020
+    second: shootingstar_259
+  - first:
+      213: -5380807148503144940
+    second: shootingstar_260
+  - first:
+      213: 8886732784910039921
+    second: shootingstar_261
+  - first:
+      213: -3904429236450827817
+    second: shootingstar_262
+  - first:
+      213: -4844041521839462342
+    second: shootingstar_263
+  - first:
+      213: 3654595974528643805
+    second: shootingstar_264
+  - first:
+      213: 3910684707061981879
+    second: shootingstar_265
+  - first:
+      213: 4353988258381047802
+    second: shootingstar_266
+  - first:
+      213: 8784448441609627263
+    second: shootingstar_267
+  - first:
+      213: 8863775260924066542
+    second: shootingstar_268
+  - first:
+      213: -1656657606032875471
+    second: shootingstar_269
+  - first:
+      213: -1301113297790798474
+    second: shootingstar_270
+  - first:
+      213: -272636430823834096
+    second: shootingstar_271
+  - first:
+      213: 2291456475663196615
+    second: shootingstar_272
+  - first:
+      213: 678552610076692582
+    second: shootingstar_273
+  - first:
+      213: -464797744114756274
+    second: shootingstar_274
+  - first:
+      213: 8485415784824600925
+    second: shootingstar_275
+  - first:
+      213: 148346965890584585
+    second: shootingstar_276
+  - first:
+      213: -429771407170901601
+    second: shootingstar_277
+  - first:
+      213: -257203181750601358
+    second: shootingstar_278
+  - first:
+      213: -1291277460481550390
+    second: shootingstar_279
+  - first:
+      213: 8938831989884641975
+    second: shootingstar_280
+  - first:
+      213: 2780547868441177548
+    second: shootingstar_281
+  - first:
+      213: 3724230848289553112
+    second: shootingstar_282
+  - first:
+      213: -2641990701832092445
+    second: shootingstar_283
+  - first:
+      213: -916784240988028588
+    second: shootingstar_284
+  - first:
+      213: -7114145763199920994
+    second: shootingstar_285
+  - first:
+      213: 4647359914106425513
+    second: shootingstar_286
+  - first:
+      213: 8242149233040767011
+    second: shootingstar_287
+  - first:
+      213: 4388014480391604003
+    second: shootingstar_288
+  - first:
+      213: -9022910928005928102
+    second: shootingstar_289
+  - first:
+      213: -8278278442957245718
+    second: shootingstar_290
+  - first:
+      213: -2071470089250885338
+    second: shootingstar_291
+  - first:
+      213: -7267077407671931603
+    second: shootingstar_292
+  - first:
+      213: -5960236541219900304
+    second: shootingstar_293
+  - first:
+      213: 2993387398518888982
+    second: shootingstar_294
+  - first:
+      213: 1381790083615637637
+    second: shootingstar_295
+  - first:
+      213: 8262581910302609828
+    second: shootingstar_296
+  - first:
+      213: -3076952693517333238
+    second: shootingstar_297
+  - first:
+      213: 3995583681039840039
+    second: shootingstar_298
+  - first:
+      213: 6551962557987571251
+    second: shootingstar_299
+  - first:
+      213: -1484256976583978119
+    second: shootingstar_300
+  - first:
+      213: -2580326918366500841
+    second: shootingstar_301
+  - first:
+      213: -9216629118738352376
+    second: shootingstar_302
+  - first:
+      213: -8590203243278254336
+    second: shootingstar_303
+  - first:
+      213: 6989582202705774177
+    second: shootingstar_304
+  - first:
+      213: 7263936752803440502
+    second: shootingstar_305
+  - first:
+      213: -1326090231548925372
+    second: shootingstar_306
+  - first:
+      213: 609672261114670462
+    second: shootingstar_307
+  - first:
+      213: 1139145746301183672
+    second: shootingstar_308
+  - first:
+      213: -8905948283949948389
+    second: shootingstar_309
+  - first:
+      213: -2303442232117502282
+    second: shootingstar_310
+  - first:
+      213: -2034983718380985055
+    second: shootingstar_311
+  - first:
+      213: -3898123335630754174
+    second: shootingstar_312
+  - first:
+      213: 8043901547680858880
+    second: shootingstar_313
+  - first:
+      213: -906028848940781103
+    second: shootingstar_314
+  - first:
+      213: -3588856458947447831
+    second: shootingstar_315
+  - first:
+      213: -7464594935109464982
+    second: shootingstar_316
+  - first:
+      213: 9179179201987855762
+    second: shootingstar_317
+  - first:
+      213: -2421674907075253647
+    second: shootingstar_318
+  - first:
+      213: -4301359127248091882
+    second: shootingstar_319
+  - first:
+      213: 4732616879005883479
+    second: shootingstar_320
+  - first:
+      213: 9120127304468374561
+    second: shootingstar_321
+  - first:
+      213: -1939933048348141013
+    second: shootingstar_322
+  - first:
+      213: 7424442966539235776
+    second: shootingstar_323
+  - first:
+      213: 5424785382613397946
+    second: shootingstar_324
+  - first:
+      213: -2208631107783769223
+    second: shootingstar_325
+  - first:
+      213: -6191752648147446592
+    second: shootingstar_326
+  - first:
+      213: -2034520517115495628
+    second: shootingstar_327
+  - first:
+      213: 6248307783120911569
+    second: shootingstar_328
+  - first:
+      213: 2636092401903207883
+    second: shootingstar_329
+  - first:
+      213: 7054588894092966156
+    second: shootingstar_330
+  - first:
+      213: 1284983297448901158
+    second: shootingstar_331
+  - first:
+      213: -7557407677686133153
+    second: shootingstar_332
+  - first:
+      213: 183486074138850672
+    second: shootingstar_333
+  - first:
+      213: 2804044952720552094
+    second: shootingstar_334
+  - first:
+      213: 629103861410193378
+    second: shootingstar_335
+  - first:
+      213: 7851520266617116382
+    second: shootingstar_336
+  - first:
+      213: -7841309587604489935
+    second: shootingstar_337
+  - first:
+      213: -7625385187007215172
+    second: shootingstar_338
+  - first:
+      213: 6544482981730254198
+    second: shootingstar_339
+  - first:
+      213: -4825625323018307441
+    second: shootingstar_340
+  - first:
+      213: -1189520984209713107
+    second: shootingstar_341
+  - first:
+      213: 5648238105590056023
+    second: shootingstar_342
+  - first:
+      213: 8840415481563884048
+    second: shootingstar_343
+  - first:
+      213: -9203596423486228421
+    second: shootingstar_344
+  - first:
+      213: 2176700466485213553
+    second: shootingstar_345
+  - first:
+      213: 5250665121712573436
+    second: shootingstar_346
+  - first:
+      213: -1451373357346639343
+    second: shootingstar_347
+  - first:
+      213: 2111608540989139660
+    second: shootingstar_348
+  - first:
+      213: 8342281998355824154
+    second: shootingstar_349
+  - first:
+      213: 5669381306747459272
+    second: shootingstar_350
+  - first:
+      213: -3143376663956571371
+    second: shootingstar_351
+  - first:
+      213: -2385524249395386097
+    second: shootingstar_352
+  - first:
+      213: -594510303587279980
+    second: shootingstar_353
+  - first:
+      213: 4479474852028807863
+    second: shootingstar_354
+  - first:
+      213: -3313169495333521352
+    second: shootingstar_355
+  - first:
+      213: -6238329935186768411
+    second: shootingstar_356
+  - first:
+      213: -3500596737548514440
+    second: shootingstar_357
+  - first:
+      213: 8520221765158280500
+    second: shootingstar_358
+  - first:
+      213: 5293185172935945983
+    second: shootingstar_359
+  - first:
+      213: -6925849823364713270
+    second: shootingstar_360
+  - first:
+      213: 1424601364103851468
+    second: shootingstar_361
+  - first:
+      213: -8272469387382601563
+    second: shootingstar_362
+  - first:
+      213: 6807763318096142901
+    second: shootingstar_363
+  - first:
+      213: 5300911317563656071
+    second: shootingstar_364
+  - first:
+      213: -2288508451767139761
+    second: shootingstar_365
+  - first:
+      213: 5951992546556925851
+    second: shootingstar_366
+  - first:
+      213: -7218351140108985233
+    second: shootingstar_367
+  - first:
+      213: -2881017572831666190
+    second: shootingstar_368
+  - first:
+      213: 3385438581850150404
+    second: shootingstar_369
+  - first:
+      213: -8358444634915961484
+    second: shootingstar_370
+  - first:
+      213: -6076511626701439762
+    second: shootingstar_371
+  - first:
+      213: -2584074347587253927
+    second: shootingstar_372
+  - first:
+      213: -3964887097516835582
+    second: shootingstar_373
+  - first:
+      213: -5750824298539670164
+    second: shootingstar_374
+  - first:
+      213: -1676429953517065286
+    second: shootingstar_375
+  - first:
+      213: 626328458790491806
+    second: shootingstar_376
+  - first:
+      213: 4695763842963042997
+    second: shootingstar_377
+  - first:
+      213: -5959498035071810756
+    second: shootingstar_378
+  - first:
+      213: -7582024875569877905
+    second: shootingstar_379
+  - first:
+      213: -4437540528347918224
+    second: shootingstar_380
+  - first:
+      213: 1754706954628303077
+    second: shootingstar_381
+  - first:
+      213: 7209983278847440690
+    second: shootingstar_382
+  - first:
+      213: 6420341019556666610
+    second: shootingstar_383
+  - first:
+      213: 4190641513616430667
+    second: shootingstar_384
+  - first:
+      213: 6486411229831288610
+    second: shootingstar_385
+  - first:
+      213: 1630255549415340123
+    second: shootingstar_386
+  - first:
+      213: 7265485210601496782
+    second: shootingstar_387
+  - first:
+      213: 8825218124490935276
+    second: shootingstar_388
+  - first:
+      213: 3365189495997882824
+    second: shootingstar_389
+  - first:
+      213: 15846912055697095
+    second: shootingstar_390
+  - first:
+      213: -8770486438391155549
+    second: shootingstar_391
+  - first:
+      213: -2739115820054624784
+    second: shootingstar_392
+  - first:
+      213: -7037539468354957267
+    second: shootingstar_393
+  - first:
+      213: -7169906585419013666
+    second: shootingstar_394
+  - first:
+      213: 6404424029426063029
+    second: shootingstar_395
+  - first:
+      213: 4909155258093391959
+    second: shootingstar_396
+  - first:
+      213: -5287354435317290989
+    second: shootingstar_397
+  - first:
+      213: 2746862914453796520
+    second: shootingstar_398
+  - first:
+      213: -7066448330595362356
+    second: shootingstar_399
+  - first:
+      213: -376172934692395452
+    second: shootingstar_400
+  - first:
+      213: -8770667653280249177
+    second: shootingstar_401
+  - first:
+      213: 3796357039811435568
+    second: shootingstar_402
+  - first:
+      213: 5772466762161744753
+    second: shootingstar_403
+  - first:
+      213: -2711141944076214187
+    second: shootingstar_404
+  - first:
+      213: 1514340247309310596
+    second: shootingstar_405
+  - first:
+      213: 8341288290429757522
+    second: shootingstar_406
+  - first:
+      213: -7860634438833743783
+    second: shootingstar_407
+  - first:
+      213: 4873115824826606572
+    second: shootingstar_408
+  - first:
+      213: 3657490181531661469
+    second: shootingstar_409
+  - first:
+      213: -8873632547777841846
+    second: shootingstar_410
+  - first:
+      213: 8856744981202384749
+    second: shootingstar_411
+  - first:
+      213: -8709164435192208060
+    second: shootingstar_412
+  - first:
+      213: 1578880313843766753
+    second: shootingstar_413
+  - first:
+      213: 1871240804511918556
+    second: shootingstar_414
+  - first:
+      213: 1229751406424695132
+    second: shootingstar_415
+  - first:
+      213: -4220415065583822541
+    second: shootingstar_416
+  - first:
+      213: -8650728096509967828
+    second: shootingstar_417
+  - first:
+      213: -3890129103322018343
+    second: shootingstar_418
+  - first:
+      213: -8362094467091981065
+    second: shootingstar_419
+  - first:
+      213: 4204087158466573957
+    second: shootingstar_420
+  - first:
+      213: -8794956527549110145
+    second: shootingstar_421
+  - first:
+      213: -7731718806648541349
+    second: shootingstar_422
+  - first:
+      213: 7829103785894514666
+    second: shootingstar_423
+  - first:
+      213: 9146344475632533777
+    second: shootingstar_424
+  - first:
+      213: 2736812419281180904
+    second: shootingstar_425
+  - first:
+      213: -5053859331050192759
+    second: shootingstar_426
+  - first:
+      213: -3301735870587033898
+    second: shootingstar_427
+  - first:
+      213: -3114090994030365629
+    second: shootingstar_428
+  - first:
+      213: 4018924966914603923
+    second: shootingstar_429
+  - first:
+      213: -331827243755680795
+    second: shootingstar_430
+  - first:
+      213: 2310838059946003577
+    second: shootingstar_431
+  - first:
+      213: -3036508116062792249
+    second: shootingstar_432
+  - first:
+      213: -4540052699606037264
+    second: shootingstar_433
+  - first:
+      213: 6218239892915352680
+    second: shootingstar_434
+  - first:
+      213: 4334220660205970110
+    second: shootingstar_435
+  - first:
+      213: 4955234502881126460
+    second: shootingstar_436
+  - first:
+      213: -6649884694481232667
+    second: shootingstar_437
+  - first:
+      213: -4746117321894630368
+    second: shootingstar_438
+  - first:
+      213: 5304168943312109895
+    second: shootingstar_439
+  - first:
+      213: 7350849233679401260
+    second: shootingstar_440
+  - first:
+      213: -1114420840002017677
+    second: shootingstar_441
+  - first:
+      213: -2075442901953577577
+    second: shootingstar_442
+  - first:
+      213: 9205579113847840404
+    second: shootingstar_443
+  - first:
+      213: -3438967994829091048
+    second: shootingstar_444
+  - first:
+      213: 4669367416113057306
+    second: shootingstar_445
+  - first:
+      213: -4330375396984875095
+    second: shootingstar_446
+  - first:
+      213: -404272968937196090
+    second: shootingstar_447
+  - first:
+      213: -7689877607684063912
+    second: shootingstar_448
+  - first:
+      213: -3090125256010751610
+    second: shootingstar_449
+  - first:
+      213: 808993048013995804
+    second: shootingstar_450
+  - first:
+      213: -5007008964440169007
+    second: shootingstar_451
+  - first:
+      213: -6717324437219661022
+    second: shootingstar_452
+  - first:
+      213: -1476440584521008691
+    second: shootingstar_453
+  - first:
+      213: -4941869316128971191
+    second: shootingstar_454
+  - first:
+      213: -5078028575557743826
+    second: shootingstar_455
+  - first:
+      213: 3906882435065936653
+    second: shootingstar_456
+  - first:
+      213: -5295841304180927510
+    second: shootingstar_457
+  - first:
+      213: -5842549635828624142
+    second: shootingstar_458
+  - first:
+      213: 6769789664549229075
+    second: shootingstar_459
+  - first:
+      213: -623673126463402090
+    second: shootingstar_460
+  - first:
+      213: 2051018025672325203
+    second: shootingstar_461
+  - first:
+      213: -6873852803485119789
+    second: shootingstar_462
+  - first:
+      213: 7592048907671183407
+    second: shootingstar_463
+  - first:
+      213: 3628044283509860442
+    second: shootingstar_464
+  - first:
+      213: -4981413314616962203
+    second: shootingstar_465
+  - first:
+      213: -3083204606684141920
+    second: shootingstar_466
+  - first:
+      213: 32115708210132171
+    second: shootingstar_467
+  - first:
+      213: 7515436090914909292
+    second: shootingstar_468
+  - first:
+      213: -3434638119996244863
+    second: shootingstar_469
+  - first:
+      213: -3974339769334437724
+    second: shootingstar_470
+  - first:
+      213: 3262111933575034447
+    second: shootingstar_471
+  - first:
+      213: 1621849903123476879
+    second: shootingstar_472
+  - first:
+      213: -5217623015428401701
+    second: shootingstar_473
+  - first:
+      213: -2054224895083598196
+    second: shootingstar_474
+  - first:
+      213: 3115734048059758069
+    second: shootingstar_475
+  - first:
+      213: -6103158161011286888
+    second: shootingstar_476
+  - first:
+      213: 5344170083516849265
+    second: shootingstar_477
+  - first:
+      213: 9222897775144625237
+    second: shootingstar_478
+  - first:
+      213: 2409321516017017296
+    second: shootingstar_479
+  - first:
+      213: 8187531303894249688
+    second: shootingstar_480
+  - first:
+      213: 5582363594461436533
+    second: shootingstar_481
+  - first:
+      213: 4011780157465544308
+    second: shootingstar_482
+  - first:
+      213: 4025165873353143370
+    second: shootingstar_483
+  - first:
+      213: 7653807062658899416
+    second: shootingstar_484
+  - first:
+      213: -9090023316966584297
+    second: shootingstar_485
+  - first:
+      213: -4253091884455738275
+    second: shootingstar_486
+  - first:
+      213: -4918437088701398864
+    second: shootingstar_487
+  - first:
+      213: 2597557607673778225
+    second: shootingstar_488
+  - first:
+      213: 7545892853671270623
+    second: shootingstar_489
+  - first:
+      213: -8101311144930310994
+    second: shootingstar_490
+  - first:
+      213: -2341173974112184754
+    second: shootingstar_491
+  - first:
+      213: -7138153240628152740
+    second: shootingstar_492
+  - first:
+      213: -1969617603317451638
+    second: shootingstar_493
+  - first:
+      213: -6017103242975315774
+    second: shootingstar_494
+  - first:
+      213: 1448190336047572980
+    second: shootingstar_495
+  - first:
+      213: -8197154182113770518
+    second: shootingstar_496
+  - first:
+      213: 7807467037528051821
+    second: shootingstar_497
+  - first:
+      213: -3285639756708310159
+    second: shootingstar_498
+  - first:
+      213: -7493412652344501395
+    second: shootingstar_499
+  - first:
+      213: 6356398879383622789
+    second: shootingstar_500
+  - first:
+      213: -5023579816496505479
+    second: shootingstar_501
+  - first:
+      213: -3587035798921531772
+    second: shootingstar_502
+  - first:
+      213: 3309486729580941598
+    second: shootingstar_503
+  - first:
+      213: 7041501262144190489
+    second: shootingstar_504
+  - first:
+      213: -1516657370468679352
+    second: shootingstar_505
+  - first:
+      213: -6148092722952503766
+    second: shootingstar_506
+  - first:
+      213: -7376507405504394318
+    second: shootingstar_507
+  - first:
+      213: 6059814529753557301
+    second: shootingstar_508
+  - first:
+      213: 6724210128652161213
+    second: shootingstar_509
+  - first:
+      213: 178607939393947677
+    second: shootingstar_510
+  - first:
+      213: 2566348437411195279
+    second: shootingstar_511
+  - first:
+      213: 2172094456898783742
+    second: shootingstar_512
+  - first:
+      213: 8073672327465158341
+    second: shootingstar_513
+  - first:
+      213: 2858544561040669423
+    second: shootingstar_514
+  - first:
+      213: 7281426974371777080
+    second: shootingstar_515
+  - first:
+      213: -5949782300385332410
+    second: shootingstar_516
+  - first:
+      213: -7414700619536719485
+    second: shootingstar_517
+  - first:
+      213: -910021203792723070
+    second: shootingstar_518
+  - first:
+      213: -2093801413699349857
+    second: shootingstar_519
+  - first:
+      213: -5156740376403434642
+    second: shootingstar_520
+  - first:
+      213: 8781035143311478796
+    second: shootingstar_521
+  - first:
+      213: 8205146793064274031
+    second: shootingstar_522
+  - first:
+      213: 942943392828300543
+    second: shootingstar_523
+  - first:
+      213: 7678683404067575650
+    second: shootingstar_524
+  - first:
+      213: 4643189496620092413
+    second: shootingstar_525
+  - first:
+      213: 3333098480105598465
+    second: shootingstar_526
+  - first:
+      213: 8639388702508880087
+    second: shootingstar_527
+  - first:
+      213: 8427890229964749109
+    second: shootingstar_528
+  - first:
+      213: 2951165262332493236
+    second: shootingstar_529
+  - first:
+      213: 6536564647733829519
+    second: shootingstar_530
+  - first:
+      213: 2689145346834740723
+    second: shootingstar_531
+  - first:
+      213: 6769708144815061219
+    second: shootingstar_532
+  - first:
+      213: 4070060021177620730
+    second: shootingstar_533
+  - first:
+      213: 6633926071125460109
+    second: shootingstar_534
+  - first:
+      213: 7454472617790451160
+    second: shootingstar_535
+  - first:
+      213: 6689364828799146857
+    second: shootingstar_536
+  - first:
+      213: 8398312186419880365
+    second: shootingstar_537
+  - first:
+      213: 330742091749099167
+    second: shootingstar_538
+  - first:
+      213: -3199660226077456139
+    second: shootingstar_539
+  - first:
+      213: -9085315250410378096
+    second: shootingstar_540
+  - first:
+      213: 4766243046053053270
+    second: shootingstar_541
+  - first:
+      213: 7409504550807173960
+    second: shootingstar_542
+  - first:
+      213: 3496990661549561795
+    second: shootingstar_543
+  - first:
+      213: -132823799542984273
+    second: shootingstar_544
+  - first:
+      213: 3410046696287605594
+    second: shootingstar_545
+  - first:
+      213: -5776858833949572348
+    second: shootingstar_546
+  - first:
+      213: -7646543391996693256
+    second: shootingstar_547
+  - first:
+      213: -8536707115806307006
+    second: shootingstar_548
+  - first:
+      213: -4434542659442181067
+    second: shootingstar_549
+  - first:
+      213: 1975680289860634397
+    second: shootingstar_550
+  - first:
+      213: -3716351461918230489
+    second: shootingstar_551
+  - first:
+      213: -921589604775984910
+    second: shootingstar_552
+  - first:
+      213: 8359319164007657734
+    second: shootingstar_553
+  - first:
+      213: -2278660598615539685
+    second: shootingstar_554
+  - first:
+      213: -8750715720163058882
+    second: shootingstar_555
+  - first:
+      213: -284180266079090626
+    second: shootingstar_556
+  - first:
+      213: 4706983956757566959
+    second: shootingstar_557
+  - first:
+      213: -3292505290397185717
+    second: shootingstar_558
+  - first:
+      213: -4441875830252826418
+    second: shootingstar_559
+  - first:
+      213: -591300623203223338
+    second: shootingstar_560
+  - first:
+      213: 1512113137410389489
+    second: shootingstar_561
+  - first:
+      213: -5687460360492969899
+    second: shootingstar_562
+  - first:
+      213: -232086918524478022
+    second: shootingstar_563
+  - first:
+      213: 5100049789721497786
+    second: shootingstar_564
+  - first:
+      213: 8161418623704727661
+    second: shootingstar_565
+  - first:
+      213: -1927429826583521520
+    second: shootingstar_566
+  - first:
+      213: -955077941743000701
+    second: shootingstar_567
+  - first:
+      213: -1623817743239596282
+    second: shootingstar_568
+  - first:
+      213: -4796082692293906341
+    second: shootingstar_569
+  - first:
+      213: -1272775461241950250
+    second: shootingstar_570
+  - first:
+      213: 5249109751431433957
+    second: shootingstar_571
+  - first:
+      213: -1308732426908001295
+    second: shootingstar_572
+  - first:
+      213: 5698225055808713038
+    second: shootingstar_573
+  - first:
+      213: 8334282962497003662
+    second: shootingstar_574
+  - first:
+      213: 2834605678865086915
+    second: shootingstar_575
+  - first:
+      213: 5384621320714265164
+    second: shootingstar_576
+  - first:
+      213: -2667071888102608453
+    second: shootingstar_577
+  - first:
+      213: -1629848875302575212
+    second: shootingstar_578
+  - first:
+      213: 8863740461940196918
+    second: shootingstar_579
+  - first:
+      213: -9190410493004841707
+    second: shootingstar_580
+  - first:
+      213: 6643498187167065577
+    second: shootingstar_581
+  - first:
+      213: -742079763405512514
+    second: shootingstar_582
+  - first:
+      213: -694066536943741878
+    second: shootingstar_583
+  - first:
+      213: 5875928086809790941
+    second: shootingstar_584
+  - first:
+      213: 2260580046812271791
+    second: shootingstar_585
+  - first:
+      213: 7353463792919994782
+    second: shootingstar_586
+  - first:
+      213: -8352097472526114753
+    second: shootingstar_587
+  - first:
+      213: 3005992810313584541
+    second: shootingstar_588
+  - first:
+      213: -467038912526659408
+    second: shootingstar_589
+  - first:
+      213: 7968122082355174297
+    second: shootingstar_590
+  - first:
+      213: -4732575336994415047
+    second: shootingstar_591
+  - first:
+      213: -1693794126360674153
+    second: shootingstar_592
+  - first:
+      213: 3697721660580132191
+    second: shootingstar_593
+  - first:
+      213: 6667225257599657635
+    second: shootingstar_594
+  - first:
+      213: -2545519544335629480
+    second: shootingstar_595
+  - first:
+      213: -8206767445379931682
+    second: shootingstar_596
+  - first:
+      213: -8865385539863561971
+    second: shootingstar_597
+  - first:
+      213: -1064138824917640980
+    second: shootingstar_598
+  - first:
+      213: -749447679869309302
+    second: shootingstar_599
+  - first:
+      213: 3250735320006072495
+    second: shootingstar_600
+  - first:
+      213: -9203841081352183619
+    second: shootingstar_601
+  - first:
+      213: -7352631584589264098
+    second: shootingstar_602
+  - first:
+      213: 7181963330707108431
+    second: shootingstar_603
+  - first:
+      213: -7761952107917061668
+    second: shootingstar_604
+  - first:
+      213: 2158315713991308823
+    second: shootingstar_605
+  - first:
+      213: 3963614597991039026
+    second: shootingstar_606
+  - first:
+      213: -7100607410756922272
+    second: shootingstar_607
+  - first:
+      213: -1958398919910843180
+    second: shootingstar_608
+  - first:
+      213: 4793594977666122959
+    second: shootingstar_609
+  - first:
+      213: -6382776319076692817
+    second: shootingstar_610
+  - first:
+      213: 4506948285143822443
+    second: shootingstar_611
+  - first:
+      213: -6207273439567474820
+    second: shootingstar_612
+  - first:
+      213: -5320092518129531708
+    second: shootingstar_613
+  - first:
+      213: 4736611439167385224
+    second: shootingstar_614
+  - first:
+      213: -712193365099791997
+    second: shootingstar_615
+  - first:
+      213: -1700838151434082316
+    second: shootingstar_616
+  - first:
+      213: -5615375073561041750
+    second: shootingstar_617
+  - first:
+      213: -5050487809633282164
+    second: shootingstar_618
+  - first:
+      213: 1765749253630018677
+    second: shootingstar_619
+  - first:
+      213: -5933665237017121500
+    second: shootingstar_620
+  - first:
+      213: -2873556937309931201
+    second: shootingstar_621
+  - first:
+      213: 5620499805557882638
+    second: shootingstar_622
+  - first:
+      213: 4779609748503520042
+    second: shootingstar_623
+  - first:
+      213: 2723529951849580058
+    second: shootingstar_624
+  - first:
+      213: 1091274829599868883
+    second: shootingstar_625
+  - first:
+      213: -7051753070252600921
+    second: shootingstar_626
+  - first:
+      213: 5807640304230408288
+    second: shootingstar_627
+  - first:
+      213: 2845349673058887532
+    second: shootingstar_628
+  - first:
+      213: -1631613101828169946
+    second: shootingstar_629
+  - first:
+      213: 7823937606201843692
+    second: shootingstar_630
+  - first:
+      213: 7532139777799986110
+    second: shootingstar_631
+  - first:
+      213: 292597698324998269
+    second: shootingstar_632
+  - first:
+      213: 1614030952723718452
+    second: shootingstar_633
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shootingstar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4890b6c87c72a854a9a03dbad6e997c3
+      internalID: -743038671243188983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236287ffab8985f4c8351a0a85c575f4
+      internalID: -7553709970450833876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a74d243997e87349936b85bd5aa6bae
+      internalID: 4990180446913706212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c8b063e38a1954fa19cf946c0d26c4
+      internalID: 7203146349399001055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da31e8410a7ea2848b459a53daf295eb
+      internalID: 4487730639216163430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b9642b5f5dc614b852ac02d64a6e08
+      internalID: -9114704456645087405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e029f913774044b9e7c80ba052941a
+      internalID: -885215745918030606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c940ed066d6e3489970f21a3373a57
+      internalID: 5896008612555520666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7f0cb094cb6a0498213b71cd155bfe
+      internalID: -5145172656653583376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d587c7b703746458270b1887f3d51f
+      internalID: 2073327844130171740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5cf04b353fe6748b7328e406c2b3ef
+      internalID: -7607109899089963614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b10263cc6e7740802b22046f09fa1
+      internalID: -608928308261838725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d9222f04ff4d44aab450e7cfc0bcb
+      internalID: -1141574216286014206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6df7a4e2bb837a488cf6b8abd90e1c7
+      internalID: 7289327922810821937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e91ef65a077e04b9bdcc8b879131b8
+      internalID: -3278279196270690389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9bb7db636035d4c9d7fb399ebd57c9
+      internalID: -281941821832381389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c683cf0815a829499ead82b3bc944b6
+      internalID: 4006098405613774474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984022620bdbbb94299fbcec52d64e9f
+      internalID: 1701949205220562206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db920a9a21de6b4ebd1a8fbe6310992
+      internalID: 1475683542978553794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e0920ff3b794544bf2925d4fda08f5
+      internalID: -219396379190003242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_20
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe8ef0fd18db4348a07720085ecca41
+      internalID: 1109094918257241180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0279ee54aa3f0344691766c68526874e
+      internalID: 8625821528011251858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e48b0f5ec1b2548a926d1dcd6c42ae
+      internalID: -18183537443919270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2c6cc78a78f564ba4c17b914096923
+      internalID: 4858993151585701264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_24
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c714276f6e8f340948639ed4751f00
+      internalID: -1412367525773131651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c3716c20383824f8bbb5795f773a83
+      internalID: 4513368797230371312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7f2cb136e361f4bacde4dc88cf82bb
+      internalID: 4307553263021556049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080ddbdc17757b44c8d00c18037bbf1c
+      internalID: 9206261165135692204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988ea62bd4b87574b8c693221740cd16
+      internalID: -472660908248722661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccac5b36c2d6e4e4694244c9247e4de7
+      internalID: -6698725114912116112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605112f08f0334a4db0ad13400c30df6
+      internalID: 7975403266781820124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a93089b15102f428eca185a861517b
+      internalID: 8904046752070257180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_32
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b418a494e03346408d3898b1647a3d8
+      internalID: -71960964021405512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_33
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c04fac2ea0b304f8ad7834f6d9358e
+      internalID: 3571950296696190400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05a8fec470a7c849a4bd48b7f7cd8ef
+      internalID: 3056091244462327472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_35
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8ddcee63df5b247b437fa6ab4ccc97
+      internalID: 4136335269890163622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_36
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d41d2d85b2e854cb9bef419e0beca6
+      internalID: -7706200804792927441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_37
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6b501c829a66142972c383ec0f62a0
+      internalID: 6533844507364409075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_38
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1000
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621b16638d1cc06419cc0fbcedb23e9d
+      internalID: -7776591367927571664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af4abeb17974c4292e4a42adf61c1e
+      internalID: -1558038963707271404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7188e6ddd3aeb704088d73fdf4dc23be
+      internalID: -2542645422260771570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263d7113febedc14285067b0b751dbf6
+      internalID: 7799531508739986040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53547639a3b86ae4f9a0d346dc6c273c
+      internalID: 7964764949624227469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea93b0eef9946649852d8a77aaadf13
+      internalID: -3600584411513474312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6838eb700767fae4a9c853741de0f65a
+      internalID: 1215488178728599550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bff6ae2d1734d442af33675b47a3111
+      internalID: -3907838763472425560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_46
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3625af748d471f4c94d0a3a29bf41c4
+      internalID: -8136006995614614627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_47
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993b7f59bd7d76342a3316f9e93bd79b
+      internalID: -8365652902032329714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_48
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff73d3a03f37ee94d92310f521feacfc
+      internalID: -3478277365108409558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_49
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f13e40fd5fd116469228d657102ef8b
+      internalID: 450373158332043426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_50
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c187c72a3a1c5b48a8bf2e4f8078fcf
+      internalID: 914079228144200550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_51
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b79592e8fb8ed44b61f982878c09f5
+      internalID: -6409726984569025623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451e7ce776aedec41a92256d40d5f153
+      internalID: -1181853691582841547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a260ddf30623864788c53d73c06208f
+      internalID: 4107713197520112145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19a56265c184cd4cb93977a83f48a14
+      internalID: 7779759001112016136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ab0c3bd95d294b8ab02d95a5b8e89
+      internalID: -687303245048897315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f977ea43e6841e45974f91dccd5175d
+      internalID: -3964137324018095968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0f93cee9732ed408f4cfdbecd24dc2
+      internalID: -770288565809928291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_58
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df13cfb47c3c8a443bd7db3029200cc2
+      internalID: 4904846232262346099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_59
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db88c83d8ca2704b8dfd3b46d7c737f
+      internalID: -8955264922198559936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_60
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c983e26a76c2764d9637c4761452b19
+      internalID: 157201227502474253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_61
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc228f2540537a46bda601204bd507b
+      internalID: 5129765561271747775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_62
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b153b716e51898e4e944e2ef236c1f43
+      internalID: -3280781871118268637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_63
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76046bf908213734b8432598a5e10214
+      internalID: 6211455788694597975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_64
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948cdc1c1718c2a4faa92658d0213e51
+      internalID: -8667461560506658043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7a4d17140028343a00c4cc6082309d
+      internalID: -4773729236508869154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8aee37fee08464e89465332ea273d3
+      internalID: 373831420653314716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4b2897c9590224cb142e6e13226df1
+      internalID: -2350650463083854517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_68
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbf9cce3fbfc674db87b4b0a5caf938
+      internalID: 7630649478879178277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342f2b42980e4d048950bdcee0b5eebd
+      internalID: -3235217535372204858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_70
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b047e9c94fdc82c49a315e1fd38ca346
+      internalID: 790196500927504733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_71
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd16aa034d48e46aac244ed4619081
+      internalID: -3979905434544488432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_72
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb2a67502f50fb4cb88fa5ef7fe69d2
+      internalID: 4135305727056430514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_73
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bddb4e2faf03fe43aba040c78cee3a4
+      internalID: -5865804159593033837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_74
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f6c32f54a9e3448ef81f0ca555305
+      internalID: 2243062889490423890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_75
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b50ef3abd509ed4782d23bd6b1ef966
+      internalID: -1498824261285194670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_76
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f2d2ec02c1fa49a057eaab25bf458
+      internalID: -6022028098676336811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_77
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c244a536c594d59458626744c858b87c
+      internalID: -7958938021720469196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c368f7cc4b96e934c8a5f56dce83ce1a
+      internalID: -5542569914134026286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_79
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045795c0b29173c428bbb37eca9b0a28
+      internalID: 428260132777883532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_80
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722a34a3ec1614649b63d2a40af9b37b
+      internalID: -4369100415814472087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_81
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9739409c94f13d342adabd38c47c1397
+      internalID: -4249029819495638379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae30f72ef8b3e394fb67439f9e257753
+      internalID: 7841404011858107256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_83
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd919bcddc91f9458c0544711773e13
+      internalID: -8840142292626513774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_84
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e58469d1fc91c47a14bc8897b3da99
+      internalID: -679124957375146583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_85
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca771b037eab34280e42db720c2ff2
+      internalID: 1275983022565233818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_86
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba646e87427fc5647a67ffa0ce134bb5
+      internalID: -6143045219334701364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_87
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a378c141bdf72294d8153a3b91a0aade
+      internalID: 3577944779132749248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_88
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d5e704bd471b546be15c092f165d4e
+      internalID: 9039125439739583403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_89
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c5df062c576547bbe67bd839de29d
+      internalID: -6164546163322154774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_90
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8744474c9f62486459232529f2ba538a
+      internalID: 1623276340266130651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe6e5eda79918429ab7a70012eaba7
+      internalID: 9042031283964771552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_92
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7d34afaced47946a279167fcf5f944
+      internalID: -7716291206738306779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22a1996ce0895d4ca2cfb8bea206c25
+      internalID: 8126754759488073143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_94
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132aaa3df89a4ed41ac23634fe4add05
+      internalID: 8714089889977882596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_95
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4c05cfbb5629643aa6d6e814c8a687
+      internalID: -3994456654659618956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_96
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a77713aea7f164db3211d56a3e9fe8
+      internalID: 1502989479048593813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_97
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50607c3f281cdd342ae5be96ac1b7130
+      internalID: 2479388200853821643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_98
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d19a323fe19fe846855fea13d050e29
+      internalID: -6542891583684585314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_99
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3980f2205534e99449f48aba379de516
+      internalID: 2156960338581080069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_100
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51f5e5c56fb8b94383e67b98897ff1f
+      internalID: 7321916528058236559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_101
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3139fa36beb016d428208143180406df
+      internalID: -8009776690556911236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_102
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da788d31782f314d96f2c37ecf952e3
+      internalID: 1733417111244771209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_103
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee9c405165ab44289e517bc2874ed6
+      internalID: 6202770026532283015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4fce1aa528d8f4b9ef6fa4da05a1e3
+      internalID: -7821677400355482178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_105
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4641cc3510c0064ea858993d2303a8a
+      internalID: -1052420219126136998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_106
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a7798b17f0384f94e2038ddfb0c61
+      internalID: -7782028793702213591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_107
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e143771395ed2c24ea363e558278dd8c
+      internalID: -7875293150095460040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_108
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c949ead6a148e41458a0b7feb8fb4bb3
+      internalID: 6908708625878357035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_109
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db55432a841dfbc48b9746e20e102ce1
+      internalID: -5895445064765415236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_110
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f432807a2f8343901dd19395cb625
+      internalID: 2978480607482502186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_111
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c8bcd691250f34b8e595dba6ecf8a8
+      internalID: 9213689704457452636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_112
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25100ecddce6ad7419582ddee0ef2ac0
+      internalID: -8321585132312681506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_113
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1496be3fff0885f4fad1e046d0bf512b
+      internalID: 4531285436161569415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_114
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b21d43fd6b34429ec1f2a9b9cf486
+      internalID: -4489698522967583075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_115
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d29e38b8fedb4b9296a281698f33b
+      internalID: 8018051228007613054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_116
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febf9b8cadfd1954583e10c7227b467e
+      internalID: -6094215530433334695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae8505383099d94b9eb0e27def7ec69
+      internalID: -9188247409694312810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_118
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05617dd3bc0005048a90035a6c294a82
+      internalID: 5957762507772360453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_119
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69431ce4c5fde94cb112717e575089d
+      internalID: -1877799424544867697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_120
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11c8adf837ee6141a518cdec320730c
+      internalID: 573497781127510151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_121
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8159fc4da257224ea32a38e0e338c6c
+      internalID: -1401624512909160942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_122
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7f3a725c8a5c0429a118d34aad60a8
+      internalID: -6255482377737338805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_123
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f644e9f812c4780458e1fed1915fae6b
+      internalID: -458897766902641220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_124
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe08fde5f196a438f607aaaaa3599b
+      internalID: -5315061562364446991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_125
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76faac223226cbb469fa4032e61c38ff
+      internalID: -8121269990300587857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_126
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210428f40ef8ca34bb332a088dc04bc4
+      internalID: -207251275849858296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_127
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642ec21f1515dd741b0d97a6fa9fd5d1
+      internalID: 1856066843550875135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_128
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47cbe78476c8a64dbcb1328885c04df
+      internalID: -6443463852762321386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_129
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f089ac8a3969e1b4ab1d807bf2df7fb9
+      internalID: -653136333049124482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472eb11fa80312741807ca9a7f9d06a0
+      internalID: 8566391403889024274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_131
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c4a2aa2057ee4a9fc8debf29c8800
+      internalID: -3966852064712586028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_132
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7219c6026f41f049a76303f22961044
+      internalID: -2188696411877371017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_133
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5684f3f166302eb429540bd5d8634574
+      internalID: -3468400356585777357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_134
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052d694e793bc4d4f9e055e27d4c465f
+      internalID: 7727904870754524810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_135
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635fd9254738baf4d86f1dffc967461a
+      internalID: -4694874174167251962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_136
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c962a9a9ac788454793d072ab5ed6927
+      internalID: -8537927262514873372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_137
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1af208b4af4534486eba2488e3178b
+      internalID: -5577907031777701197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_138
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81ddba3b637434478a915c732ad961d
+      internalID: -4057114958050314271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_139
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96e4f433da226641a1cb65d63bca431
+      internalID: -3934002446595917452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_140
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7a3a68dc718ec4eb01e2ac8f11b033
+      internalID: 3962187256724700046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_141
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d6791d891a3442b891dda737c3301
+      internalID: 8747455637749819334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_142
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a4aa7c14ee3fc4fbb7d7b21e879709
+      internalID: -22673751015054965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b940f00bff940440b6ae970062f12c3
+      internalID: 8422989264548553855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_144
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2a0d21647038d4595e2917c0c4131f
+      internalID: 7737450138835376274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_145
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c910190e83f06c64eb5960fd8c8c3835
+      internalID: -7124104529255102877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_146
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d719492c173d459b3b6c8113783f0
+      internalID: -6228364742828464906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_147
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356b816caa694684d914379d2a4137cd
+      internalID: -82711153867434323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_148
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bb8845aa4aa71488b7af05d9339811
+      internalID: 7719085605939829880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_149
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb28264ab388914b9149bac2ce55e3c
+      internalID: 6393638736060421108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_150
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbd94ddf12509940b63dddead5c6536
+      internalID: -1677777660014504557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_151
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c29ef86656cfa42a16df9332931b03
+      internalID: -4575311370407147606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_152
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c547ba27ff8bb4d8dcc3787652ccf2
+      internalID: 4937146718904925993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_153
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe1f11017730924e898acb19a359472
+      internalID: -8188427941444262222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_154
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb5083633594b3458c22d8fce885cbf
+      internalID: -3664050111775501220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_155
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b8c76221d71a740b29e2e4ee552553
+      internalID: 7371275410097865761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce5132d2752aef4eb42ef5cbb919425
+      internalID: -2274641168551825433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_157
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c3107308411204a98d6faf6fa9a4ea
+      internalID: -1313290343399508030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_158
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a23c2f58c1369945ad87cafa192edb0
+      internalID: 395485157246497887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shootingstar_159
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8086f9d86b318424db9bae392c26307a
+      internalID: -1058496572262858782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2110b087896b903408859e9e10e2a04f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
