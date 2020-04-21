@@ -26,11 +26,11 @@ namespace PeixeAbissal.Controller {
         [SerializeField]
         private ButtonController yesButton, noButton, makeWishButton;
 
-        private string starPresentationCutsceneText = "Hello sweetheart, I'm passing by this beautiful sky and I need your help indeed. I need to complete my journey but i don't have enough energy. Can you help me? You only need to make a wish based on {1} energy";
+        private string starPresentationCutsceneText = "Hello sweetheart, I'm passing by this beautiful sky and I need your help indeed. I have to complete my journey but I don't have enough energy. Can you help me? You only need to <u>make a wish</u> based on <color=red><b>{1}</b></color> energy";
         private string starYes = "Oh! You have a good heart!";
         private string starNo = "Please? I don't have much time left";
 
-        private const string ALREADY_WISHED = "You've already made a wish for the star {0}. Come Back later to know what happened with the star and your wish";
+        private const string ALREADY_WISHED = "You've already made a wish for the star <b>{0}</b>. Come Back later to know what happened with the star and your wish";
 
         public void InitializeGame () {
 

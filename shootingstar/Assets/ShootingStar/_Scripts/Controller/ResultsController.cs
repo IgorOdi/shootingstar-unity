@@ -47,13 +47,14 @@ namespace PeixeAbissal.Controller {
 
         private bool wishListOnScreen;
 
-        private const string SURVIVED_TEXT = "THE LAST STAR SURVIVED!";
-        private const string PERISHED_TEXT = "THE LAST STAR PERISHED :(";
+        private const string SURVIVED_TEXT = "Congratulations! The star <b>{0}</b> completed the journey and they're so thankful for the help that they're rising and shining for all the wishes to come true!";
+        private const string PERISHED_TEXT = "Oh! I'm sorry. The star <b>{0}</b> didn't complete the journey before their lifetime has come to end. They didn't have enough energy. More wishes were needed indeed…";
 
         public void ShowResults (Results result) {
 
             wishesAdded.Clear ();
-            textController.ShowText (result.starSurvived ? SURVIVED_TEXT : PERISHED_TEXT, onClick: () => {
+            string textToShow = string.Format (result.starSurvived ? SURVIVED_TEXT : PERISHED_TEXT, result.starName);
+            textController.ShowText (textToShow, onClick: () => {
 
                 float delay = 0.1f;
                 if (wishListOnScreen) {
