@@ -36,6 +36,8 @@ namespace PeixeAbissal.Audio {
         private AudioSource source;
         private AudioSource sfxSource;
 
+        private const float FADE_DURATION = 2f;
+
         void Awake () {
 
             instance = this;
@@ -48,7 +50,7 @@ namespace PeixeAbissal.Audio {
             var clipToPlay = musicToPlay.Equals (Music.INTRO) ? introSong : wishSong;
             if (source.isPlaying) {
 
-                source.DOFade (0, 1f)
+                source.DOFade (0, FADE_DURATION)
                     .OnComplete (() => {
 
                         InternalPlay (clipToPlay);
@@ -69,7 +71,7 @@ namespace PeixeAbissal.Audio {
 
             source.clip = clip;
             source.Play ();
-            source.DOFade (1f, 1f)
+            source.DOFade (1f, FADE_DURATION)
                 .From (0);
         }
     }

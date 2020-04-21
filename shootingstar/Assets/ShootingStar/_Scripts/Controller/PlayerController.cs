@@ -16,13 +16,7 @@ namespace PeixeAbissal.Controller {
 
         public static PlayerStatus GetPlayerStatus () {
 
-            if (!PlayerPrefs.HasKey (PlayerStatusKey)) {
-
-                return PlayerStatus.NEVER_PLAYED;
-            } else {
-
-                return PlayerStatus.HAS_WISHED;
-            }
+            return !PlayerPrefs.HasKey (PlayerStatusKey) ? PlayerStatus.NEVER_PLAYED : (PlayerStatus) PlayerPrefs.GetInt (PlayerStatusKey);
         }
 
         public static void SetPlayerStatus (PlayerStatus playerStatus) {

@@ -12,12 +12,14 @@ namespace PeixeAbissal.UI.Conteiner {
 
         public void SetTime (int minutes) {
 
-            timeLeft.text = $"{minutes} minutes left";
+            if (minutes >= 60) minutes /= 60;
+            string timeScale = minutes >= 60 ? "hours" : "minutes";
+            timeLeft.text = $"{minutes} {timeScale} left";
         }
 
-        public void SetWishesMissing (int wishes) {
+        public void SetWishesMissing (int wishes, int wishesNeeded) {
 
-            wishesMissing.text = $"{wishes} wishes missing";
+            wishesMissing.text = $"{wishes}/{wishesNeeded} wishes";
         }
     }
 }

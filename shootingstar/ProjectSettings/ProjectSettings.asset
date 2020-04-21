@@ -515,8 +515,8 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
   scriptingDefineSymbols:
-    1: DEV
-    13: DEV
+    1: PROD
+    13: PROD
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}

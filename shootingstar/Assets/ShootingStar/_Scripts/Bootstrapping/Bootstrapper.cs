@@ -9,9 +9,6 @@ namespace PeixeAbissal.Bootstrapping {
 
     public class Bootstrapper : MonoBehaviour {
 
-        private static StarService starService;
-        private static CurrentStar currentStar;
-
         private const string BOOTSTRAPPER_SCENE = "Bootstrapper";
         private const string MAIN_SCENE = "Main";
 
@@ -42,18 +39,7 @@ namespace PeixeAbissal.Bootstrapping {
             var menuController = FindObjectOfType<MenuController> ();
             menuController.InitializeMenu ();
 
-            starService = new StarService ();
-            starService.GetCurrentStar (menuController, (loadedStar) => {
-
-                currentStar = loadedStar;
-            });
-
             Audio.AudioManager.Instance.PlayMusic (Audio.Music.INTRO);
-        }
-
-        public void OnInitializeGame () {
-
-            FindObjectOfType<CutsceneController> ().InitializeGame (currentStar);
         }
     }
 }

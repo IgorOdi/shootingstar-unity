@@ -33,7 +33,7 @@ namespace PeixeAbissal.Controller {
             menuImage.DOFade (0, 3f).Play ()
                 .OnComplete (() => {
 
-                    FindObjectOfType<Bootstrapping.Bootstrapper> ().OnInitializeGame ();
+                    FindObjectOfType<CutsceneController> ().InitializeGame ();
                 });
         }
     }

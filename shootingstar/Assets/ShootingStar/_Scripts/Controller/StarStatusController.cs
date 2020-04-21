@@ -54,7 +54,7 @@ namespace PeixeAbissal.Controller {
 
                     shootingStarController.MoveStar ((float) lastSeconds, config.starInterval);
                     starStatusConteiner.SetTime (lastMinutes);
-                    starStatusConteiner.SetWishesMissing (config.wishesNeeded - currentStar.wishesReceived);
+                    starStatusConteiner.SetWishesMissing (currentStar.wishesReceived, config.wishesNeeded);
                 });
             });
         }

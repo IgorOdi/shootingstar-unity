@@ -10,8 +10,8 @@ namespace PeixeAbissal.UI {
 
         public virtual void SetState (ActiveState state, float finalValue, float tweenDuration = 1, Ease ease = Ease.InOutSine, Action callback = null) {
 
-            var tweens = state.Equals (ActiveState.ENABLE) ? EnableAnimation (GetComponent<Image> (), finalValue, tweenDuration) :
-                DisableAnimation (GetComponent<Image> (), tweenDuration);
+            var tweens = state.Equals (ActiveState.ENABLE) ? EnableAnimation (finalValue, tweenDuration) :
+                DisableAnimation (tweenDuration);
 
             for (int i = 0; i < tweens.Count; i++) {
                 tweens[i].SetEase (ease);
@@ -21,13 +21,14 @@ namespace PeixeAbissal.UI {
             }
         }
 
-        public virtual void SetState (ActiveState state, Tween customTween, Action callback = null) {
+        public virtual void SetState (ActiveState state, Tween customTween = null, Action callback = null) {
 
             if (state.Equals (ActiveState.ENABLE)) gameObject.SetActive (true);
 
-            var tweens = customTween != null ? new List<Tween> () { customTween } : DisableAnimation (GetComponent<Image> (), 1f);
-            for (int i = 0; i < tweens.Count; i++) {
+            var tweens = customTween != null ? new List<Tween> () { customTween } : state.Equals (ActiveState.ENABLE) ? EnableAnimation (1f, 1f) : 
+                DisableAnimation (1f);
 
+            for (int i = 0; i < tweens.Count; i++) {
                 if (i == tweens.Count - 1)
                     tweens[i].OnComplete (() => {
                         callback?.Invoke ();
@@ -37,7 +38,7 @@ namespace PeixeAbissal.UI {
             }
         }
 
-        protected virtual List<Tween> EnableAnimation (Graphic target, float finalValue, float tweenDuration) {
+        protected virtual List<Tween> EnableAnimation (float finalValue, float tweenDuration) {
 
             List<Tween> tweens = new List<Tween> ();
             foreach (Graphic g in GetComponentsInChildren<Graphic> ()) {
@@ -51,7 +52,7 @@ namespace PeixeAbissal.UI {
             return tweens;
         }
 
-        protected virtual List<Tween> DisableAnimation (Graphic target, float tweenDuration) {
+        protected virtual List<Tween> DisableAnimation (float tweenDuration) {
 
             List<Tween> tweens = new List<Tween> ();
             foreach (Graphic g in GetComponentsInChildren<Graphic> ()) {

@@ -19,28 +19,40 @@ namespace PeixeAbissal.UI.Conteiner {
         private bool textOnScreen;
 
         private const float FILL_TIME = 0.05f;
-        private const float FADE_DELAY = 2f;
+        private const float FADE_DELAY = 0.5f;
 
-        public void ShowText (string text, Action onComplete = null) {
+        private const float BACKGROUND_ALPHA = 0.75f;
+        private const float TEXT_ALPHA = 1f;
 
+        public void ShowText (string text, Action onClick = null, Action onComplete = null) {
+
+            StopAllCoroutines ();
             textBox.gameObject.SetActive (true);
             background.gameObject.SetActive (true);
             AudioManager.Instance.PlaySFX (SFX.POPUP);
-            StartCoroutine (FillText (text, onComplete));
+            StartCoroutine (FillText (text, onClick, onComplete));
         }
 
-        private IEnumerator FillText (string text, Action onComplete) {
+        private IEnumerator FillText (string text, Action onClick = null, Action onComplete = null) {
 
-            textBox.text = "";
+            if (!textOnScreen) {
+                textBox.text = "";
+                background.DOFade (BACKGROUND_ALPHA, FADE_DELAY)
+                    .From (0)
+                    .OnComplete (() => {
+                        textBox.DOFade (TEXT_ALPHA, FADE_DELAY)
+                            .From (0);
+                    });
+            } else {
+
+                textBox.DOFade (0f, FADE_DELAY)
+                    .OnComplete (() => {
+                        textBox.text = "";
+                        textBox.DOFade (TEXT_ALPHA, FADE_DELAY);
+                    });
+            }
+
             textOnScreen = true;
-            background.DOFade (0.5f, 0.5f)
-                .From (0)
-                .OnComplete (() => {
-
-                    textBox.DOFade (1f, 0.5f)
-                        .From (0);
-                });
-
             yield return new WaitForSeconds (1f);
             textBox.maxVisibleCharacters = 0;
             textBox.text = text;
@@ -50,11 +62,13 @@ namespace PeixeAbissal.UI.Conteiner {
                 yield return new WaitForSeconds (FILL_TIME);
             }
 
-            InputManager.SetMouseClick (true, () => onComplete?.Invoke ());
+            InputManager.SetMouseClick (true, () => onClick?.Invoke ());
+            onComplete?.Invoke ();
         }
 
         public void HideText (Action onComplete = null) {
 
+            StopAllCoroutines ();
             float duration = textOnScreen ? 1f : 0f;
             textOnScreen = false;
             textBox.DOFade (0, duration);

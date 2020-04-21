@@ -3,6 +3,7 @@ using PeixeAbissal.Audio;
 using PeixeAbissal.Controller;
 using PeixeAbissal.Model;
 using PeixeAbissal.Service;
+using PeixeAbissal.Utils;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -34,8 +35,8 @@ namespace PeixeAbissal.UI.Conteiner {
         public void ShowMakeWishField () {
 
             wishInputFieldComponent.text = "";
-            wishInputField.SetState (ActiveState.ENABLE, 0.75f, 1f, Ease.InOutSine, () => {
-                makeWishButton.SetState (ActiveState.ENABLE, 1f, 1f, Ease.InOutSine, null);
+            wishInputField.SetState (ActiveState.ENABLE, 0.75f, 1.5f, Ease.InOutSine, () => {
+                makeWishButton.SetState (ActiveState.ENABLE, 1f, 1.5f, Ease.InOutSine, null);
             });
             makeWishButton.OnClick (MakeAWish);
             AudioManager.Instance.PlaySFX (SFX.POPUP);
@@ -43,7 +44,8 @@ namespace PeixeAbissal.UI.Conteiner {
 
         public void HideMakeWishField (string starMessage = "") {
 
-            wishInputField.SetState (ActiveState.DISABLE, null, () => {
+            wishInputField.SetState (ActiveState.DISABLE, null, null);
+            this.RunDelayed (0.25f, () => {
                 makeWishButton.SetState (ActiveState.DISABLE, null, () => {
 
                     if (starMessage != "")
