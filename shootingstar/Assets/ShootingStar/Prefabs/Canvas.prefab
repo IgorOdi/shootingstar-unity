@@ -220,6 +220,11 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 7736286050896631204, guid: 712a755a91944b4498c41e56725a96a3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 712a755a91944b4498c41e56725a96a3, type: 3}
 --- !u!224 &7798051951668843563 stripped
@@ -531,6 +536,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6812610901771619833, guid: 36c373bf583f318468a1af0d4490237c,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -100
+      objectReference: {fileID: 0}
+    - target: {fileID: 6812610901771619833, guid: 36c373bf583f318468a1af0d4490237c,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -100
+      objectReference: {fileID: 0}
+    - target: {fileID: 6812610900960216713, guid: 36c373bf583f318468a1af0d4490237c,
+        type: 3}
+      propertyPath: m_Padding.m_Top
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6812610900960216713, guid: 36c373bf583f318468a1af0d4490237c,
+        type: 3}
+      propertyPath: m_Spacing
+      value: 115
       objectReference: {fileID: 0}
     - target: {fileID: 6812610902180265560, guid: 36c373bf583f318468a1af0d4490237c,
         type: 3}

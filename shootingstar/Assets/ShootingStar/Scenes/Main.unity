@@ -878,6 +878,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: MenuCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 7332777680901114186, guid: ad9753af6696c9e41b26a48b9436471e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7332777680901114190, guid: ad9753af6696c9e41b26a48b9436471e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1100,11 +1105,6 @@ PrefabInstance:
     - target: {fileID: 7798051951731667708, guid: ef40fe197dbb6ff488b283dd9bd6b97f,
         type: 3}
       propertyPath: m_Pivot.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7798051951641789961, guid: ef40fe197dbb6ff488b283dd9bd6b97f,
-        type: 3}
-      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
