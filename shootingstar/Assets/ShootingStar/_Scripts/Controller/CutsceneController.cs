@@ -82,13 +82,9 @@ namespace PeixeAbissal.Controller {
 
         public void ConfigureYesOrNoQuestion (bool answeredYes) {
 
-            textController.ShowText (answeredYes ? starYes : starNo);
+            textController.ShowText (answeredYes ? starYes : starNo, onComplete: () => { makeWishButton.SetState (ActiveState.ENABLE); });
             yesButton.SetState (ActiveState.DISABLE);
             noButton.SetState (ActiveState.DISABLE);
-            this.RunDelayed (1f, () => {
-
-                makeWishButton.SetState (ActiveState.ENABLE);
-            });
             makeWishButton.AddClickEvent (() => {
 
                 textController.HideText ();
