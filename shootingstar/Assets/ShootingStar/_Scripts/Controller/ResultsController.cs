@@ -82,7 +82,10 @@ namespace PeixeAbissal.Controller {
                 FindObjectOfType<CutsceneController> ().InitializeGame ();
 
             });
-            creditsButton.AddClickEvent (HideResults);
+            creditsButton.AddClickEvent (() => {
+
+                FindObjectOfType<CreditsController> ().ShowCredits ();
+            });
         }
 
         private void SetHeader (int starIndex, Results result) {
@@ -94,7 +97,7 @@ namespace PeixeAbissal.Controller {
                 wishesText.text = $"{result.wishesReceived}/{config.wishesNeeded}";
 
                 var sufix = interval < 86400 ? "h" : "d";
-                interval = interval >= 86400 ? interval / 24 /60 /60 : interval / 60 / 60;
+                interval = interval >= 86400 ? interval / 24 / 60 / 60 : interval / 60 / 60;
                 lifetime.text = (interval + sufix).ToString ();
             });
         }
